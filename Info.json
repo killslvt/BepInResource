@@ -2,7 +2,7 @@
   "gameSlug": "vrchat",
   "gameName": "VRChat",
   "mappingUrl": "https://github.com/killslvt/BepInResource/raw/refs/heads/main/DeobfuscationMap.csv.gz",
-  "mappingFileSHA512": "bd271e75c5f135e686b2c1518a7fa19f9427574b8556bb732a9b825cbb4efd23971a5262515426679995f9b8ae7d98875e0fb9007a533b66e2b2390aecf25957",
+  "mappingFileSHA512": "f58692968e0f24f76091c64b6e455a62e0c0edf1b429310d2aa5d0235044c2050acd9a05227ce571b7f6c8dcef38a087b323b95f914e33c054710c181c259870",
   "forceCpp2IlVersion": null,
   "forceUnhollowerVersion": null,
   "obfuscationRegex": null
